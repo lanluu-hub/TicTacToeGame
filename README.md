@@ -58,16 +58,17 @@ Turn 2 - Player2 enters position (1,2)
 ❌ Invalid input: Cell is out of bounds or already filled.
 
 ## 📦 Build and Run
-Compile
+### Compile
 ```bash
 g++ -std=c++17 -o tictactoe main.cpp Board.cpp Player.cpp TicTacToe.cpp
 ```
 
-Run
+### Run
 ```bash
 ./tictactoe
 ```
 
+## 📁 Project Structure
 ```css
 TicTacToeGame/
 ├── include/
@@ -83,7 +84,7 @@ TicTacToeGame/
 ```
 
 ## ✍️ Author
-Created by Lan Luu
+Created by Lan Luu.
 Part of a C++ learning or system design project.
 
 
